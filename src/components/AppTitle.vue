@@ -2,7 +2,7 @@
 export default {
     data() {
         return {
-            title: 'My first app with Vite!',
+            title: 'Rengoku - "Mio padre"',
         }
     }
 }
